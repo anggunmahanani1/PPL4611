@@ -34,7 +34,8 @@ Database Designer		: Helmi Zainul Muttaqin
 
 PROJECT SCOPE STATEMENT
 1.1.	Ruang Lingkup
-Setmore menawarkan platform penjadwalan online gratis untuk terhubung dengan pelanggan. Kelola semua janji melalui satu sistem kalender yang sederhana dan rapi dan berikan bisnis kebebasan untuk berkembang. Dapatkan lebih banyak pelanggan dan pertajam citra merek, sembari mengendalikan jam kerja. Dengan mencantumkan ketersediaan secara online, pelanggan dapat memesan sendiri layanan yang mereka inginkan. Fokus dalam memberikan pengalaman pelanggan yang luar biasa dan biarkan Setmore menangani dokumennya. Pengalaman yang berkesan dan bermakna dimulai dengan koneksi. Buatlah agar mudah untuk terhubung dengan lebih banyak pelanggan dengan membuat Halaman Pemesanan yang dapat disesuaikan dan gratis. Tampilkan ketersediaan, layanan, dan harga  secara online, dan terima janji temu 24/7. Pelanggan selalu mendapat informasi terbaru dengan pengingat pemesanan otomatis. Dan, Anda menerima pembaruan instan di perangkat desktop, tablet, iOS dan Android. Jadikan dunia panggung Anda dengan menambahkan video meeting 1-klik ke janji temu Anda. Dengan Teleport.Video, Anda dapat terhubung dengan pelanggan Anda dari mana saja. Siap untuk media sosial Anda bekerja lebih keras? Dengan Setmore, pengikut Anda dapat memesan janji temu langsung dari posting Anda, pada waktu yang sesuai untuk mereka.
+Setmore menawarkan platform penjadwalan online gratis untuk terhubung dengan pelanggan. Kelola semua janji melalui satu sistem kalender yang sederhana dan rapi dan berikan bisnis kebebasan untuk berkembang. Dapatkan lebih banyak pelanggan dan pertajam citra merek, sembari mengendalikan jam kerja. Dengan mencantumkan ketersediaan secara online,
+pelanggan dapat memesan sendiri layanan yang mereka inginkan. Fokus dalam memberikan pengalaman pelanggan yang luar biasa dan biarkan Setmore menangani dokumennya. Pengalaman yang berkesan dan bermakna dimulai dengan koneksi. Buatlah agar mudah untuk terhubung dengan lebih banyak pelanggan dengan membuat Halaman Pemesanan yang dapat disesuaikan dan gratis. Tampilkan ketersediaan, layanan, dan harga  secara online, dan terima janji temu 24/7. Pelanggan selalu mendapat informasi terbaru dengan pengingat pemesanan otomatis. Dan, Anda menerima pembaruan instan di perangkat desktop, tablet, iOS dan Android. Jadikan dunia panggung Anda dengan menambahkan video meeting 1-klik ke janji temu Anda. Dengan Teleport.Video, Anda dapat terhubung dengan pelanggan Anda dari mana saja. Siap untuk media sosial Anda bekerja lebih keras? Dengan Setmore, pengikut Anda dapat memesan janji temu langsung dari posting Anda, pada waktu yang sesuai untuk mereka.
 
 1.2.	Deskkripsi Fungsionalitas
 •	Daftar user
@@ -43,4 +44,16 @@ Setmore menawarkan platform penjadwalan online gratis untuk terhubung dengan pel
 •	Customers
 •	Account
 •	More
+
+
+
+
+TUGAS 2 PPL KELOMPOK 8
+
+1. Tools Project Management " Trello " :
+Trello adalah aplikasi kolaborasi yang memungkinkan Anda untuk mengatur berbagai proyek dalam satu tempat. Dengan Trello, semua orang di proyek tersebut bisa tahu apa yang sedang dikerjakan, siapa yang mengerjakannya, dan sudah sejauh mana ia mengerjakannya.
+
+Anggap saja Trello adalah sebuah papan tulis yang penuh dengan sticky notes. Di masing-masing sticky notes tertulis mengenai tugas Anda pribadi dan tugas tim secara keseluruhan. Lalu, di setiap sticky notes tersebut juga terdapat foto, lampiran dari berbagai sumber, serta kolom komentar.
+
+Nah, bedanya dengan papan tulis biasa, Trello adalah papan tulis yang bisa Anda bawa ke mana-mana. Anda bisa mengakses Trello lewat smartphone atau lewat komputer dengan mudah.
 

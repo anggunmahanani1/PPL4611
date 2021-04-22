@@ -22,8 +22,8 @@ PROJECT CHARTER 1.1. Nama Proyek “Aplikasi Setmore” 1.2. Nama Tim Kelompok 8
 
 pruduct owner : Kelompok 8 
 project leader : Anggun Mahanani 
-Business & System Analyst : Anggun Suasana 
-Front-End Programmer : Sapto Susilo 
+Business  : Anggun Suasana 
+System Analyst & Back-End Programmer : Sapto Susilo 
 UI/UX Designer : Hadi Kustiyawan 
 Database Designer : Helmi Zainul Muttaqin
 

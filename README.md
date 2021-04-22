@@ -20,15 +20,14 @@ PROJECT CHARTER 1.1. Nama Proyek “Aplikasi Setmore” 1.2. Nama Tim Kelompok 8
 
 1.6. Stakeholder
 
-pruduct owner : Kelompok 8 project leader : Anggun Mahanani Business & System Analyst : Anggun Suasana Front-End Programmer : Sapto Susilo Back-End Programmer : Hadi Kustiyawan Database Designer : Helmi Zainul Muttaqin
+pruduct owner : Kelompok 8 
+project leader : Anggun Mahanani 
+Business & System Analyst : Anggun Suasana 
+Front-End Programmer : Sapto Susilo 
+Back-End Programmer : Hadi Kustiyawan 
+Database Designer : Helmi Zainul Muttaqin
 
 PROJECT SCOPE STATEMENT 1.1. Ruang Lingkup Setmore menawarkan platform penjadwalan online gratis untuk terhubung dengan pelanggan. Kelola semua janji melalui satu sistem kalender yang sederhana dan rapi dan berikan bisnis kebebasan untuk berkembang. Dapatkan lebih banyak pelanggan dan pertajam citra merek, sembari mengendalikan jam kerja. Dengan mencantumkan ketersediaan secara online, pelanggan dapat memesan sendiri layanan yang mereka inginkan. Fokus dalam memberikan pengalaman pelanggan yang luar biasa dan biarkan Setmore menangani dokumennya. Pengalaman yang berkesan dan bermakna dimulai dengan koneksi. Buatlah agar mudah untuk terhubung dengan lebih banyak pelanggan dengan membuat Halaman Pemesanan yang dapat disesuaikan dan gratis. Tampilkan ketersediaan, layanan, dan harga secara online, dan terima janji temu 24/7. Pelanggan selalu mendapat informasi terbaru dengan pengingat pemesanan otomatis. Dan, Anda menerima pembaruan instan di perangkat desktop, tablet, iOS dan Android. Jadikan dunia panggung Anda dengan menambahkan video meeting 1-klik ke janji temu Anda. Dengan Teleport.Video, Anda dapat terhubung dengan pelanggan Anda dari mana saja. Siap untuk media sosial Anda bekerja lebih keras? Dengan Setmore, pengikut Anda dapat memesan janji temu langsung dari posting Anda, pada waktu yang sesuai untuk mereka.
-
-
-
-
-
-
 
 1.2. Deskkripsi Fungsionalitas • Daftar user • Calender • Activity • Customers • Account • More
 

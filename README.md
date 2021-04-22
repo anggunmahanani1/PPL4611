@@ -24,9 +24,9 @@ pruduct owner : Kelompok 8
 
 project leader : Anggun Mahanani 
 
-Business & System Analyst  : Anggun Suasana & Sapto susilo
+Business & System Analyst  : Anggun Mahanani & Anggun Suasana
 
-Frond-End Programer   : Anggun Mahanani & Anggun Suasana
+Frond-End Programer   :  Anggun Suasana & Sapto susilo
 
 Back-End Programmer : Sapto Susilo & Helmi Zainul Muttaqin 
 

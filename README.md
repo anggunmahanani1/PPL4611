@@ -36,10 +36,12 @@ TUGAS 2 PPL KELOMPOK 8
 
 Tools Project Management " Trello " : Trello adalah aplikasi kolaborasi yang memungkinkan Anda untuk mengatur berbagai proyek dalam satu tempat. Dengan Trello, semua orang di proyek tersebut bisa tahu apa yang sedang dikerjakan, siapa yang mengerjakannya, dan sudah sejauh mana ia mengerjakannya.
 Anggap saja Trello adalah sebuah papan tulis yang penuh dengan sticky notes. Di masing-masing sticky notes tertulis mengenai tugas Anda pribadi dan tugas tim secara keseluruhan. Lalu, di setiap sticky notes tersebut juga terdapat foto, lampiran dari berbagai sumber, serta kolom komentar.
-
-Nah, bedanya dengan papan tulis biasa, Trello adalah papan tulis yang bisa Anda bawa ke mana-mana. Anda bisa mengakses Trello lewat smartphone atau lewat komputer dengan mudah. 2. Balsamiq mockup Merupakan program aplikasi yang digunakan dalam pembuatan tampilan user interface sebuah aplikasi. Software ini sudah menyediakan tools yang dapat memudahkan dalam membuat desain prototyping aplikasi yang akan kita buat. Software ini berfokus pada konten yang ingin digambar dan fungsionalitas yang dibutuhkan oleh pengguna dimana mockups itu menurut wiki adalah sebagai sebuah model dari suatu struktur atau alat baik full size ataupun berupa miniatur yang digunakan untuk pembelajaran, demo, test desain, promosi, dan sebagainya.
+Nah, bedanya dengan papan tulis biasa, Trello adalah papan tulis yang bisa Anda bawa ke mana-mana. Anda bisa mengakses Trello lewat smartphone atau lewat komputer dengan mudah. 
+2. Balsamiq mockup Merupakan program aplikasi yang digunakan dalam pembuatan tampilan user interface sebuah aplikasi. Software ini sudah menyediakan tools yang dapat memudahkan dalam membuat desain prototyping aplikasi yang akan kita buat. Software ini berfokus pada konten yang ingin digambar dan fungsionalitas yang dibutuhkan oleh pengguna dimana 
+3. mockups itu menurut wiki adalah sebagai sebuah model dari suatu struktur atau alat baik full size ataupun berupa miniatur yang digunakan untuk pembelajaran, demo, test desain, promosi, dan sebagainya.
 Balsamiq Mockup adalah salah satu software yang di gunakan dalam pembuatan desain atau prototype dalam pembuatan tampilan user interface sebuah aplikasi.
 whimsical adalah salah satu web application pembuat flowchart yang cukup terkenal, dengan menggunakan whisical kamu bisa membuat berbagai macam flowchart seperti DFD ERD bahkan hingga membuat wireframe.
+
 
 
 

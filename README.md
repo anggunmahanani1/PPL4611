@@ -49,7 +49,7 @@ Nah, bedanya dengan papan tulis biasa, Trello adalah papan tulis yang bisa Anda 
 Balsamiq Mockup adalah salah satu software yang di gunakan dalam pembuatan desain atau prototype dalam pembuatan tampilan user interface sebuah aplikasi.
 whimsical adalah salah satu web application pembuat flowchart yang cukup terkenal, dengan menggunakan whisical kamu bisa membuat berbagai macam flowchart seperti DFD ERD bahkan hingga membuat wireframe.
 
-
+CodeIgniter merupakan aplikasi sumber terbuka yang berupa kerangka kerja PHP dengan model MVC untuk membangun situs web dinamis dengan menggunakan PHP. CodeIgniter memudahkan pengembang web untuk membuat aplikasi web dengan cepat dan mudah dibandingkan dengan membuatnya dari awal.
 
 
 

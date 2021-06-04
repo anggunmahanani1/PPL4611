@@ -1,0 +1,52 @@
+Target yg di dapat:
+
+1. Kamis, 3 Juni -> progres login, daftar login, Tampilan dasboard, menampilkan data base daftar user.
+
+2. Kamis, 10 Juni -> Menyelesaikan Menu user: 
+
+3. Kamis, 17 Juni -> Menu Admin
+
+4. Kamis, 24 Juni -> Menyelesaikan menu Admin
+
+5. Kamis, 1 Juli -> Pra Final UAS + Revisi Akhir + Uji Testing.
+
+Final UAS -> Laporan Presentasi Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

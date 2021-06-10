@@ -14,11 +14,18 @@ Hadi Kustiyawan (A11.2018.10898)
 
 Helmi Zainul Muttaqin (A11.2018.11451)
 
+
+
+Link Youtube :
+
 Link Vidio 1: https://youtu.be/O7tIJNwWFn0
 
 Link Vidio 2: https://youtu.be/wOdKdb1mUZs
 
 Link Vidio 3: https://youtu.be/b46edKUhp3U
+
+Link Vidio 4: https://youtu.be/gYQrwLOTzKo
+
 
 
 
@@ -64,6 +71,58 @@ Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang diranc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 
 

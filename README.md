@@ -69,7 +69,7 @@ Bootstrap adalah kerangka kerja CSS yang sumber terbuka dan bebas untuk merancan
 Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. Ini dapat dibantu oleh teknologi seperti Cascading Style Sheets dan bahasa scripting seperti JavaScript dan VBScript.
 
 
-
+Project Mingguan...
 
 
 
@@ -123,6 +123,104 @@ Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang diranc
 
 
 .
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

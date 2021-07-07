@@ -18,6 +18,13 @@ class User extends CI_Controller
 
         $this->load->view('store/action');
     }
+	 public function adventure()
+    {
+        $data['user'] = $this->db->get_where('user', ['email' =>
+            $this->session->userdata('email')])->row_array();
+
+        $this->load->view('store/action');
+    }
 
     public function dreadout()
     {

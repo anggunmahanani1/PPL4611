@@ -221,7 +221,7 @@
                     <!-- begin:: Brand -->
                     <div class="kt-header__brand   kt-grid__item" id="kt_header_brand">
                         <a class="kt-header__brand-logo" href="<?= base_url('user') ?>">
-                            <p class="logo-tengah mt-3">Gameindonesia.</p>
+                            <p class="logo-tengah mt-3">GAME SET SCHDULE</p>
                         </a>
                     </div>
 

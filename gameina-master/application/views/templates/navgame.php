@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9.7.1/dist/sweetalert2.all.min.js"></script>
+    <link rel="shortcut icon" href="<?= base_url('assets/') ?>assets/media/logos/favicon.ico" />
 
 
     <title>GAME SET SCHDULE - Web Game Portal Indonesia</title>
@@ -34,9 +35,6 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item ">
                         <a class="nav-link" href="<?= base_url('welcome') ?>">Beranda <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Toko</a>
                     </li>
                     <li class="nav-item dropdown active">
                         <a class="nav-link dropdown-toggle" href="<?= base_url('games') ?>" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -58,12 +56,8 @@
                             Topup
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" style="color: #d6011d!important" href="<?= base_url('topup/mobile_legends') ?>">Mobile Legends</a>
-                            <a class="dropdown-item" style="color: #d6011d!important" href="<?= base_url('topup/free_fire') ?>">Free Fire</a>
-                            <a class="dropdown-item" style="color: #d6011d!important" href="<?= base_url('topup/aov') ?>">Arena of valor</a>
-                            <a class="dropdown-item" style="color: #d6011d!important" href="<?= base_url('topup/pubg') ?>">PUBG</a>
-                            <a class="dropdown-item" style="color: #d6011d!important" href="
-                            <?= base_url('topup/marvel') ?>">Marvel Super Wars</a>
+                            <a class="dropdown-item" style="color:#d6011d !important;" href="https://www.unipin.com/">Unipin</a>
+                            <a class="dropdown-item" style="color:#d6011d !important;" href="https://www.codashop.com/id/">Codashop</a>
                         </div>
                     </li>
 

@@ -166,38 +166,38 @@
                                                         href="<?=base_url('store/action')?>" class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Action</span></a></li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Adventure</span></a>
                                                 </li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">FPS</span></a>
                                                 </li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Strategy</span></a>
                                                 </li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Mystery</span></a>
                                                 </li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Multiplayer</span></a>
                                                 </li>
-                                                <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                <li class="kt-menu__item " aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link "><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Battle Royale</span></a>
                                                 </li>
                                                 <li class="kt-menu__item  kt-menu__item--submenu"
-                                                    data-ktmenu-submenu-toggle="hover" aria-haspopup="true"><a href="#"
+                                                    data-ktmenu-submenu-toggle="hover" aria-haspopup="true"><a href="<?=base_url('store/action')?>"
                                                         class="kt-menu__link kt-menu__toggle"><i
                                                             class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
                                                             class="kt-menu__link-text">Paling Populer</span><i
@@ -205,27 +205,27 @@
                                                     <div
                                                         class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--right">
                                                         <ul class="kt-menu__subnav">
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://www.dota2.com/"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">DOTA 2
                                                                     </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">CSGO
                                                                     </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://store.steampowered.com/app/444090/Paladins/"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">Paladins
                                                                     </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://www.epicgames.com/fortnite/en-US/home"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">Fortnite
                                                                     </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://store.steampowered.com/bundle/1723/War_for_the_Overworld_Underlord_Edition/"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">Underlords</span></a>
                                                             </li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/"
                                                                     class="kt-menu__link "><span
                                                                         class="kt-menu__link-text">PUBG</span></a>
                                                             </li>
@@ -244,38 +244,15 @@
                                             <div class="kt-menu__subnav">
                                                 <ul class="kt-menu__content">
                                                     <li class="kt-menu__item ">
-                                                        <h3 class="kt-menu__heading kt-menu__toggle"><i
-                                                                class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span
-                                                                class="kt-menu__link-text">Game yang tersedia.</span><i
-                                                                class="kt-menu__ver-arrow la la-angle-right"></i></h3>
+                                                        <h3 class="kt-menu__heading kt-menu__toggle"><i class="kt-menu__link-bullet kt-menu__link-bullet--dot"><span></span></i><span class="kt-menu__link-text">Mitra Top Up tersedia.</span><i class="kt-menu__ver-arrow la la-angle-right"></i></h3>
                                                         <ul class="kt-menu__inner">
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
-                                                                    class="kt-menu__link "><i
-                                                                        class="kt-menu__link-icon flaticon-map"></i><span
-                                                                        class="kt-menu__link-text">Mobile Legends
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://www.unipin.com/" class="kt-menu__link "><i class="kt-menu__link-icon flaticon-user"></i><span class="kt-menu__link-text">Unipin
                                                                     </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
-                                                                    class="kt-menu__link "><i
-                                                                        class="kt-menu__link-icon flaticon-user"></i><span
-                                                                        class="kt-menu__link-text">Free Fire</span></a>
+                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="https://www.codashop.com/id/" class="kt-menu__link "><i class="kt-menu__link-icon flaticon-user"></i><span class="kt-menu__link-text">Codashop</span></a>
                                                             </li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
-                                                                    class="kt-menu__link "><i
-                                                                        class="kt-menu__link-icon flaticon-clipboard"></i><span
-                                                                        class="kt-menu__link-text">Arena of valor
-                                                                    </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
-                                                                    class="kt-menu__link "><i
-                                                                        class="kt-menu__link-icon flaticon-graphic-1"></i><span
-                                                                        class="kt-menu__link-text">PUBG
-                                                                    </span></a></li>
-                                                            <li class="kt-menu__item " aria-haspopup="true"><a href="#"
-                                                                    class="kt-menu__link "><i
-                                                                        class="kt-menu__link-icon flaticon-graphic-2"></i><span
-                                                                        class="kt-menu__link-text">Marvel : Super war
-                                                                    </span></a></li>
                                                         </ul>
                                                     </li>
+                                                </ul>
 
                                             </div>
                                         </div>
@@ -462,7 +439,7 @@ echo $data['user']['nama'];
                                         </div>
                                         <div class="kt-notification__item-details">
                                             <div class="kt-notification__item-title kt-font-bold">
-                                                Wishlist saya
+                                                Keranjang saya
                                             </div>
                                             <div class="kt-notification__item-time">
                                                 As you wish!

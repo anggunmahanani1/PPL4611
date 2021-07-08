@@ -39,13 +39,13 @@ project leader : Anggun Mahanani
 
 Business & System Analyst  : Anggun Mahanani & Anggun Suasana
 
-Frond-End Programer   :  Anggun Suasana & Sapto susilo
+Frond-End Programer   :  Anggun Suasana & Sapto susilo & Anggun Mahanani
 
 Back-End Programmer : Sapto Susilo & Helmi Zainul Muttaqin 
 
 UI/UX Designer : Hadi Kustiyawan 
 
-Database Designer : Helmi Zainul Muttaqin
+Database Designer : Anggun Mahanani, Anggun Suasana, Sapto Susilo,  Hadi Kustiyawan , Helmi Zainul Muttaqin
 
 PROJECT SCOPE STATEMENT 
 1.1. Ruang Lingkup Set Schdule menawarkan platform penjadwalan online gratis untuk terhubung dengan pelanggan. Kelola semua janji melalui satu sistem kalender yang sederhana dan rapi dan berikan bisnis kebebasan untuk berkembang. Dapatkan lebih banyak pelanggan dan pertajam citra merek, sembari mengendalikan jam kerja. Dengan mencantumkan ketersediaan secara online, pelanggan dapat memesan sendiri layanan yang mereka inginkan. Fokus dalam memberikan pengalaman pelanggan yang luar biasa dan biarkan Set Schdule menangani dokumennya. Pengalaman yang berkesan dan bermakna dimulai dengan koneksi. Buatlah agar mudah untuk terhubung dengan lebih banyak pelanggan dengan membuat Halaman Pemesanan yang dapat disesuaikan dan gratis. Tampilkan ketersediaan, layanan, dan harga secara online, dan terima janji temu 24/7. Pelanggan selalu mendapat informasi terbaru dengan pengingat pemesanan otomatis. Dan, Anda menerima pembaruan instan di perangkat desktop, tablet, iOS dan Android. Jadikan dunia panggung Anda dengan menambahkan video meeting 1-klik ke janji temu Anda. Dengan Teleport.Video, Anda dapat terhubung dengan pelanggan Anda dari mana saja. Siap untuk media sosial Anda bekerja lebih keras? Dengan Set Schdule, pengikut Anda dapat memesan janji temu langsung dari posting Anda, pada waktu yang sesuai untuk mereka.
@@ -57,15 +57,10 @@ PROJECT SCOPE STATEMENT
 •	Daftar User
 
 •	Login User
-
 •	Dasboard User
-
 •	Dasboard Admin
-
 •	User Menagement
-
 •	Publisher Menagement
-
 •	Games Menagement
 •	Daftar Publisher
 •	Login Publisher
@@ -325,6 +320,89 @@ TERIMAKASIH TEMAN TEMAN.......
 
 
 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

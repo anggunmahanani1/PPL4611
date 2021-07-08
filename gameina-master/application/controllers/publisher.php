@@ -27,4 +27,12 @@ class Publisher extends CI_Controller
         // $data['user'] = $this->m_user->tampil_data()->result();
         $this->load->view('publisher/add_game', $data);
     }
+    public function game_data()
+    {
+        $data['user'] = $this->db->get_where('publisher', ['email_publisher' =>
+        $this->session->userdata('email_publisher')])->row_array();
+
+        $data['user'] = $this->m_user->tampil_data()->result();
+        $this->load->view('publisher/game_data', $data);
+    }
 }

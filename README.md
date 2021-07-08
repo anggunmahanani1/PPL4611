@@ -72,6 +72,7 @@ Game Set Schadule merupakan aplikasi untuk mempublis game  dengan cara masuk/log
 •	Games Menagement
 
 •	Daftar Publisher
+
 •	Login Publisher
 •	Dasboard Publisher
 •	Game Menagement

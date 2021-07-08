@@ -292,76 +292,15 @@
                                 </div>
 
                                 <!--end: Head -->
-
-                                <!--begin: Navigation -->
-                                <div class="kt-notification">
-                                    <a href="#" class="kt-notification__item">
-                                        <div class="kt-notification__item-icon">
-                                            <i class="flaticon2-calendar-3 kt-font-success"></i>
-                                        </div>
-                                        <div class="kt-notification__item-details">
-                                            <div class="kt-notification__item-title kt-font-bold">
-                                                Profil saya
-                                            </div>
-                                            <div class="kt-notification__item-time">
-                                                Pengaturan Akun dan lainnya
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="kt-notification__item">
-                                        <div class="kt-notification__item-icon">
-                                            <i class="flaticon2-mail kt-font-warning"></i>
-                                        </div>
-                                        <div class="kt-notification__item-details">
-                                            <div class="kt-notification__item-title kt-font-bold">
-                                                Pesan saya
-                                            </div>
-                                            <div class="kt-notification__item-time">
-                                                Kotak masuk dan tugas
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="kt-notification__item">
-                                        <div class="kt-notification__item-icon">
-                                            <i class="flaticon2-rocket-1 kt-font-danger"></i>
-                                        </div>
-                                        <div class="kt-notification__item-details">
-                                            <div class="kt-notification__item-title kt-font-bold">
-                                                Aktivitas saya
-                                            </div>
-                                            <div class="kt-notification__item-time">
-                                                Log dan notifikasi
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <a href="#" class="kt-notification__item">
-                                        <div class="kt-notification__item-icon">
-                                            <i class="flaticon2-hourglass kt-font-brand"></i>
-                                        </div>
-                                        <div class="kt-notification__item-details">
-                                            <div class="kt-notification__item-title kt-font-bold">
-                                                Keranjang saya
-                                            </div>
-                                            <div class="kt-notification__item-time">
-                                                As you wish!
-                                            </div>
-                                        </div>
-                                    </a>
-                                    <div class="kt-notification__custom">
-                                        <a href="<?= base_url('welcome/logout') ?>" target=" _blank" class="btn btn-label-brand btn-sm btn-bold">Log Out</a>
-                                    </div>
-                                </div>
-
-                                <!--end: Navigation -->
                             </div>
                         </div>
 
                         <!--end: User bar -->
 
                         <!--begin: Quick panel toggler -->
-                        <div class="kt-header__topbar-item" data-toggle="kt-tooltip" title="Quick panel" data-placement="top">
+                        <div class="kt-header__topbar-item" data-toggle="kt-tooltip" title="Log Out" data-placement="top">
                             <div class="kt-header__topbar-wrapper">
-                                <span class="kt-header__topbar-icon" id="kt_quick_panel_toggler_btn"><i class="flaticon2-cube-1"></i></span>
+                                <span class="kt-header__topbar-icon" id="kt_quick_panel_toggler_btn"><a href="<?= base_url('welcome/logout') ?>" target=" _blank" class="btn btn-label-brand btn-sm btn-bold">Log Out</a></span>
                             </div>
                         </div>
 

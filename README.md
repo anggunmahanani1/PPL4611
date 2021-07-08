@@ -63,6 +63,7 @@ PROJECT SCOPE STATEMENT
 •	Dasboard Admin
 
 •	User Menagement
+
 •	Publisher Menagement
 •	Games Menagement
 •	Daftar Publisher

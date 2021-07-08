@@ -28,4 +28,11 @@ class M_publisher extends CI_Model
         $this->db->where($where);
         $this->db->update($table, $data);
     }
+    // public function game_data($where, $table)
+    // {
+    //     $this->db->from('game');
+    //     $this->db->order_by('id_game','desc');
+    //     $query = $this->db->get();
+    //     return $query->result();
+    // }
 }

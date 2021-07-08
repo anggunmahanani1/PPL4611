@@ -59,6 +59,7 @@ PROJECT SCOPE STATEMENT
 •	Login User
 
 •	Dasboard User
+
 •	Dasboard Admin
 •	User Menagement
 •	Publisher Menagement

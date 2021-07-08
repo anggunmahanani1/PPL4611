@@ -65,6 +65,7 @@ PROJECT SCOPE STATEMENT
 •	User Menagement
 
 •	Publisher Menagement
+
 •	Games Menagement
 •	Daftar Publisher
 •	Login Publisher

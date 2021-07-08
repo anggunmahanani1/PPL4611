@@ -1,6 +1,6 @@
 # PPL4611
 
-Ppl# PPL4611 Kelompok 8 Nama Project : "Aplikasi Set Schdule"
+Ppl# PPL4611 Kelompok 8 Nama Project : "Aplikasi Game Set Schdule"
 
 Disusun oleh :
 
@@ -72,15 +72,20 @@ Hypertext Markup Language adalah bahasa markah standar untuk dokumen yang diranc
 Project Mingguan...
 
 
-
-
-
-
-
-Daftar Isi
+Daftar Isi :
 
 Persiapan Demo/Presentasi Program 
 
+Penjelasan Game Set Schedule :  Game Set Schedule  adalah Web Portal Game yang dibuat oleh Kelompok 8. Dilengkapi Game Market, Website Based Game dan Layanan Top-up yang dibuat untuk membantu para developer di Indonesia  Game Set Schedule  dibuat ditujukan agar para developer dan publisher indonesia dapat memasarkan gamenya di platform game milik negaranya sendiri.
+
+Fitur Yang Tersedia :
+
+- User login system
+- User Registration w/ email verification ( Dapat menghubungi saya untuk mengaktifkan feature tersebut )
+- Terdapat banyak game dengan berbagai kategori yang bisa kalian mainkan di web!
+- Publisher, user & game data management
+- Purchase, upload & game management
+- And manymore!
 
 
 
@@ -92,7 +97,7 @@ Persiapan Demo/Presentasi Program
 
 
 
-
+TERIMAKASIH TEMAN TEMAN.......
 
 
 
@@ -278,6 +283,26 @@ Persiapan Demo/Presentasi Program
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 
 

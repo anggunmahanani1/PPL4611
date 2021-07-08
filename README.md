@@ -53,7 +53,7 @@ Frond-End Programer   :  Anggun Suasana & Sapto susilo & Anggun Mahanani
 
 Back-End Programmer : Sapto Susilo & Helmi Zainul Muttaqin 
 
-UI/UX Designer : Hadi Kustiyawan 
+UI/UX Designer    : Hadi Kustiyawan 
 
 Database Designer : Anggun Mahanani, Anggun Suasana, Sapto Susilo,  Hadi Kustiyawan , Helmi Zainul Muttaqin
 
@@ -61,7 +61,7 @@ PROJECT SCOPE STATEMENT
 
 1.1. Ruang Lingkup
 
-Game Set Schadule merupakan aplikasi untuk mempublis game  dengan cara masuk/login ke Home Page lalu pilih fitur Publis Game kemudian publisher bisa langsung mempublisnya. melalui Aplikasi Game Set Schdule ini nantinya user juga bisa memainkan game secara online atau bisa juga memainkan game offline nya secara langsung di laman aplikasinya  dengan sebelumnya telah mendaftarkan diri terlebih dahulu, lalu setelah itu tinggal login saja dan pilih game yan kamu suka dan saat nya mainkan gamenya. Game Set Schdule memberdayakan game dengan platform pempublisan  gratis yang dirancang dengan indah dan super intuitif. Game Set Schadule memberi Anda Halaman Upload Game bagi Publisher dengan gratis untuk dibagikan ke user di situs web Game Set Schdule.
+Game Set Schedule merupakan aplikasi untuk mempublish game dengan cara masuk/login ke Home Page lalu pilih fitur Publish Game kemudian publisher bisa langsung mem-publishnya. Melalui Aplikasi Game Set Schedule ini nantinya user juga bisa memainkan game secara online atau bisa juga memainkan game offline nya secara langsung di laman aplikasinya dengan sebelumnya telah mendaftarkan diri terlebih dahulu, lalu setelah itu tinggal login saja dan pilih game yang disuka dan langsung bisa dimainkan game nya. Game Set Schedule memperdayakan game dengan platform pem-publishan gratis yang dirancang dengan indah dan super intuitif. Game Set Schedule memberi anda halaman upload Game bagi Publisher dengan gratis untuk dibagikan ke user di situs web Game Set Schedule
 
 1.2. Deskkripsi Fungsionalitas 
 

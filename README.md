@@ -29,7 +29,17 @@ Link Vidio 4: https://youtu.be/gYQrwLOTzKo
 
 
 
-PROJECT CHARTER 1.1. Nama Proyek “Aplikasi Set Schdule” 1.2. Nama Tim Kelompok 8 1.3. Tanggal Mulai Proyek 24 Maret 2021 1.4. Tanggal Berakhir Proyek 24 Juli 2021 1.5. Deskripsi Proyek Setmore merupakan aplikasi untuk manajemen pertemuan publisher dengan game designer dengan cara melalui video online dengan sebelumnya telah mengeset terlebih dahulu jadwal pertemuan onlinenya. Set Schdule memberdayakan bisnis Anda dengan platform penjadwalan online gratis yang dirancang dengan indah dan super intuitif. Buat janji, rapat video hanya dengan beberapa ketukan, akses data pelanggan di ujung jari Anda, kelola beberapa kalender staf dalam satu akun, dan banyak lagi. Set Schdule memberi Anda Halaman Pemesanan online gratis untuk dibagikan dengan pelanggan Anda di situs web Anda atau melalui saluran media sosial seperti Facebook dan Instagram, memungkinkan mereka untuk membuat janji dengan Anda!
+PROJECT CHARTER
+
+1.1. Nama Proyek “Aplikasi Game Set Schdule” 
+
+1.2. Nama Tim Kelompok 8 
+
+1.3. Tanggal Mulai Proyek 24 Maret 2021
+
+1.4. Tanggal Berakhir Proyek 24 Juli 2021 
+
+1.5. Deskripsi Proyek Game Set Schadule merupakan aplikasi untuk mempublis game  dengan cara masuk/login ke Home Page lalu pilih fitur Publis Game kemudian publisher bisa langsung mempublisnya. melalui Aplikasi Game Set Schdule ini nantinya user juga bisa memainkan game secara online atau bisa juga memainkan game offline nya secara langsung di laman aplikasinya  dengan sebelumnya telah mendaftarkan diri terlebih dahulu, lalu setelah itu tinggal login saja dan pilih game yan kamu suka dan saat nya mainkan gamenya. Game Set Schdule memberdayakan game dengan platform pempublisan  gratis yang dirancang dengan indah dan super intuitif. Game Set Schadule memberi Anda Halaman Upload Game bagi Publisher dengan gratis untuk dibagikan ke user di situs web Game Set Schdule.
 
 1.6. Stakeholder
 

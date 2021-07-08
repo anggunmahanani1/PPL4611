@@ -48,7 +48,10 @@ UI/UX Designer : Hadi Kustiyawan
 Database Designer : Anggun Mahanani, Anggun Suasana, Sapto Susilo,  Hadi Kustiyawan , Helmi Zainul Muttaqin
 
 PROJECT SCOPE STATEMENT 
-1.1. Ruang Lingkup Set Schdule menawarkan platform penjadwalan online gratis untuk terhubung dengan pelanggan. Kelola semua janji melalui satu sistem kalender yang sederhana dan rapi dan berikan bisnis kebebasan untuk berkembang. Dapatkan lebih banyak pelanggan dan pertajam citra merek, sembari mengendalikan jam kerja. Dengan mencantumkan ketersediaan secara online, pelanggan dapat memesan sendiri layanan yang mereka inginkan. Fokus dalam memberikan pengalaman pelanggan yang luar biasa dan biarkan Set Schdule menangani dokumennya. Pengalaman yang berkesan dan bermakna dimulai dengan koneksi. Buatlah agar mudah untuk terhubung dengan lebih banyak pelanggan dengan membuat Halaman Pemesanan yang dapat disesuaikan dan gratis. Tampilkan ketersediaan, layanan, dan harga secara online, dan terima janji temu 24/7. Pelanggan selalu mendapat informasi terbaru dengan pengingat pemesanan otomatis. Dan, Anda menerima pembaruan instan di perangkat desktop, tablet, iOS dan Android. Jadikan dunia panggung Anda dengan menambahkan video meeting 1-klik ke janji temu Anda. Dengan Teleport.Video, Anda dapat terhubung dengan pelanggan Anda dari mana saja. Siap untuk media sosial Anda bekerja lebih keras? Dengan Set Schdule, pengikut Anda dapat memesan janji temu langsung dari posting Anda, pada waktu yang sesuai untuk mereka.
+
+1.1. Ruang Lingkup
+
+Game Set Schadule merupakan aplikasi untuk mempublis game  dengan cara masuk/login ke Home Page lalu pilih fitur Publis Game kemudian publisher bisa langsung mempublisnya. melalui Aplikasi Game Set Schdule ini nantinya user juga bisa memainkan game secara online atau bisa juga memainkan game offline nya secara langsung di laman aplikasinya  dengan sebelumnya telah mendaftarkan diri terlebih dahulu, lalu setelah itu tinggal login saja dan pilih game yan kamu suka dan saat nya mainkan gamenya. Game Set Schdule memberdayakan game dengan platform pempublisan  gratis yang dirancang dengan indah dan super intuitif. Game Set Schadule memberi Anda Halaman Upload Game bagi Publisher dengan gratis untuk dibagikan ke user di situs web Game Set Schdule.
 
 1.2. Deskkripsi Fungsionalitas 
 

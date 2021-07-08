@@ -53,6 +53,7 @@ PROJECT SCOPE STATEMENT
 1.2. Deskkripsi Fungsionalitas 
 
 •	Home Page
+
 •	Daftar User
 •	Login User
 •	Dasboard User

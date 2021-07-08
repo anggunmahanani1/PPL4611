@@ -61,6 +61,7 @@ PROJECT SCOPE STATEMENT
 •	Dasboard User
 
 •	Dasboard Admin
+
 •	User Menagement
 •	Publisher Menagement
 •	Games Menagement
